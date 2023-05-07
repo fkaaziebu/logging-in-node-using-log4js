@@ -1,0 +1,4 @@
+[2023-05-07T20:30:09.342] [INFO] default - Hello world! my first log4js test
+[2023-05-07T20:30:09.346] [DEBUG] default - Logging debug
+[2023-05-07T20:30:09.346] [WARN] default - Logging for warning
+[2023-05-07T20:30:09.346] [ERROR] default - logging error
